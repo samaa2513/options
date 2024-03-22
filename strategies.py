@@ -1,1 +1,1 @@
-print ('This is Commit 3')
+print ('This is Conflict 1')
